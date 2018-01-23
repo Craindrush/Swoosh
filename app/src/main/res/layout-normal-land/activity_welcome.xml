@@ -74,13 +74,13 @@
         android:text="Find a team in your city and dominate the league"
         android:textAlignment="center"
         android:textColor="@android:color/background_light"
-        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintBottom_toTopOf="@+id/getStartedBtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/getStartedBtn"
         android:layout_width="253dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
